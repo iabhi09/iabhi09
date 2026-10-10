@@ -22,7 +22,7 @@ I enjoy turning real-world problems into practical solutions — from AI-assiste
 
 ---
 
-## 🔨 Projects
+## 🔨 Current Projects
 
 ### 🧠 AML Maturity Intelligence
 
