@@ -79,4 +79,4 @@ I'm interested in conversations around:
 
 **Financial Crime × AI × Risk × Product × Entrepreneurship**
 
-(https://www.linkedin.com/in/abhishek-singh-50366b258/)
+[LinkedIn](https://www.linkedin.com/in/abhishek-singh-50366b258/)
